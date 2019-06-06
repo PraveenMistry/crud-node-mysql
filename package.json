@@ -1,0 +1,22 @@
+{
+  "name": "crud-node-mysql",
+  "version": "1.0.0",
+  "description": "Basic crud operations with node-mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Praveen"
+  },
+  "keywords": [
+    "Mysql",
+    "node"
+  ],
+  "author": "Praveen",
+  "license": "ISC",
+  "dependencies": {
+    "promise-mysql": "^3.3.2"
+  }
+}
